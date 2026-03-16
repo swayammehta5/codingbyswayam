@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/swayammehta5/codingbyswayam/tree/main/0014-longest-common-prefix/) | Easy |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,4 +53,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0938-range-sum-of-bst](https://github.com/swayammehta5/codingbyswayam/tree/main/0938-range-sum-of-bst/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 <!---LeetCode Topics End-->
