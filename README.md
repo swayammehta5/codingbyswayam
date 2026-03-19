@@ -33,12 +33,14 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/swayammehta5/codingbyswayam/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/swayammehta5/codingbyswayam/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Breadth-First Search
@@ -47,6 +49,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -54,6 +57,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/swayammehta5/codingbyswayam/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Search Tree
