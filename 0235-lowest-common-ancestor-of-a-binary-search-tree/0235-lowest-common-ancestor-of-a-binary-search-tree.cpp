@@ -22,20 +22,32 @@ public:
         return false;
     }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        vector<TreeNode*> pathP;
-        vector<TreeNode*> pathQ;
-        findPath(root,p->val,pathP);
-        findPath(root,q->val,pathQ);
-        TreeNode* ans=NULL;
-        int i=0;
-        while(i<pathP.size() && i<pathQ.size()){
-            if(pathP[i]==pathQ[i]){
-                ans=pathP[i];
-            }else{
-                break;
+    //     vector<TreeNode*> pathP;
+    //     vector<TreeNode*> pathQ;
+    //     findPath(root,p->val,pathP);
+    //     findPath(root,q->val,pathQ);
+    //     TreeNode* ans=NULL;
+    //     int i=0;
+    //     while(i<pathP.size() && i<pathQ.size()){
+    //         if(pathP[i]==pathQ[i]){
+    //             ans=pathP[i];
+    //         }else{
+    //             break;
+    //         }
+    //         i++;
+    //     }
+    //     return ans;
+        while (root!=NULL) {
+            if (p->val<root->val && q->val<root->val) {
+                root=root->left;
             }
-            i++;
+            else if (p->val>root->val && q->val>root->val) {
+                root=root->right;
+            }
+            else {
+                return root;
+            }
         }
-        return ans;
+        return NULL;
     }
 };
