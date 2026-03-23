@@ -35,6 +35,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0113-path-sum-ii/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/swayammehta5/codingbyswayam/tree/main/0437-path-sum-iii/) | Medium |
@@ -46,6 +47,7 @@
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0113-path-sum-ii/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/swayammehta5/codingbyswayam/tree/main/0437-path-sum-iii/) | Medium |
@@ -68,6 +70,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0113-path-sum-ii/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/swayammehta5/codingbyswayam/tree/main/0437-path-sum-iii/) | Medium |
@@ -95,4 +98,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/swayammehta5/codingbyswayam/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0113-path-sum-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0113-path-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
