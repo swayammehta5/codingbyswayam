@@ -17,6 +17,7 @@
 | [0014-longest-common-prefix](https://github.com/swayammehta5/codingbyswayam/tree/main/0014-longest-common-prefix/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/swayammehta5/codingbyswayam/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/swayammehta5/codingbyswayam/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,10 +110,12 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/swayammehta5/codingbyswayam/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
