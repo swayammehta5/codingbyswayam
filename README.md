@@ -106,6 +106,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/swayammehta5/codingbyswayam/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,4 +147,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/swayammehta5/codingbyswayam/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/swayammehta5/codingbyswayam/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
