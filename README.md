@@ -127,6 +127,7 @@
 | [0905-sort-array-by-parity](https://github.com/swayammehta5/codingbyswayam/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/swayammehta5/codingbyswayam/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -167,4 +168,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/swayammehta5/codingbyswayam/tree/main/0203-remove-linked-list-elements/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/swayammehta5/codingbyswayam/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 <!---LeetCode Topics End-->
