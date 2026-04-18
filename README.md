@@ -16,6 +16,7 @@
 | [1672-richest-customer-wealth](https://github.com/swayammehta5/codingbyswayam/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1816-truncate-sentence](https://github.com/swayammehta5/codingbyswayam/tree/main/1816-truncate-sentence/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/swayammehta5/codingbyswayam/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/swayammehta5/codingbyswayam/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/swayammehta5/codingbyswayam/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -23,6 +24,7 @@
 | [0014-longest-common-prefix](https://github.com/swayammehta5/codingbyswayam/tree/main/0014-longest-common-prefix/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/swayammehta5/codingbyswayam/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1816-truncate-sentence](https://github.com/swayammehta5/codingbyswayam/tree/main/1816-truncate-sentence/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/swayammehta5/codingbyswayam/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/swayammehta5/codingbyswayam/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Trie
@@ -118,6 +120,7 @@
 | [0905-sort-array-by-parity](https://github.com/swayammehta5/codingbyswayam/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/swayammehta5/codingbyswayam/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/swayammehta5/codingbyswayam/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
