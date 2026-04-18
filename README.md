@@ -14,6 +14,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/swayammehta5/codingbyswayam/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/swayammehta5/codingbyswayam/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1816-truncate-sentence](https://github.com/swayammehta5/codingbyswayam/tree/main/1816-truncate-sentence/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/swayammehta5/codingbyswayam/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/swayammehta5/codingbyswayam/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## String
@@ -21,6 +22,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/swayammehta5/codingbyswayam/tree/main/0014-longest-common-prefix/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/swayammehta5/codingbyswayam/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [1816-truncate-sentence](https://github.com/swayammehta5/codingbyswayam/tree/main/1816-truncate-sentence/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/swayammehta5/codingbyswayam/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Trie
