@@ -21,8 +21,8 @@ public:
                 second.push_back(nums[i]);
             }
         }
-        sort(first.begin(),first.end());
-        sort(second.begin(),second.end());
+        // sort(first.begin(),first.end());
+        // sort(second.begin(),second.end());
         int flen=first.size();
         int slen=second.size();
         int fsum=0;
