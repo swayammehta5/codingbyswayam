@@ -16,6 +16,7 @@
 | [1672-richest-customer-wealth](https://github.com/swayammehta5/codingbyswayam/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1816-truncate-sentence](https://github.com/swayammehta5/codingbyswayam/tree/main/1816-truncate-sentence/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/swayammehta5/codingbyswayam/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/swayammehta5/codingbyswayam/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/swayammehta5/codingbyswayam/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/swayammehta5/codingbyswayam/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## String
@@ -40,6 +41,7 @@
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/swayammehta5/codingbyswayam/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/swayammehta5/codingbyswayam/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/swayammehta5/codingbyswayam/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/2578-split-with-minimum-sum/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
