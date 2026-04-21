@@ -53,6 +53,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/swayammehta5/codingbyswayam/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
@@ -97,6 +98,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/swayammehta5/codingbyswayam/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
@@ -117,6 +119,7 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/swayammehta5/codingbyswayam/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/swayammehta5/codingbyswayam/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -156,10 +159,12 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0113-path-sum-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/swayammehta5/codingbyswayam/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0198-house-robber](https://github.com/swayammehta5/codingbyswayam/tree/main/0198-house-robber/) | Medium |
 | [0337-house-robber-iii](https://github.com/swayammehta5/codingbyswayam/tree/main/0337-house-robber-iii/) | Medium |
