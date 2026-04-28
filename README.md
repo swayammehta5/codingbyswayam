@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/swayammehta5/codingbyswayam/tree/main/0014-longest-common-prefix/) | Easy |
+| [0055-jump-game](https://github.com/swayammehta5/codingbyswayam/tree/main/0055-jump-game/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -45,6 +46,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/swayammehta5/codingbyswayam/tree/main/0055-jump-game/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/swayammehta5/codingbyswayam/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/swayammehta5/codingbyswayam/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/swayammehta5/codingbyswayam/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -167,6 +169,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/swayammehta5/codingbyswayam/tree/main/0055-jump-game/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/swayammehta5/codingbyswayam/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0198-house-robber](https://github.com/swayammehta5/codingbyswayam/tree/main/0198-house-robber/) | Medium |
