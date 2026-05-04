@@ -28,6 +28,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/swayammehta5/codingbyswayam/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/swayammehta5/codingbyswayam/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/swayammehta5/codingbyswayam/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/swayammehta5/codingbyswayam/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -199,6 +200,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/swayammehta5/codingbyswayam/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/2578-split-with-minimum-sum/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/swayammehta5/codingbyswayam/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/swayammehta5/codingbyswayam/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/swayammehta5/codingbyswayam/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Simulation
