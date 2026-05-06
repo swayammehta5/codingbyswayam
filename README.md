@@ -21,6 +21,7 @@
 | [1672-richest-customer-wealth](https://github.com/swayammehta5/codingbyswayam/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1816-truncate-sentence](https://github.com/swayammehta5/codingbyswayam/tree/main/1816-truncate-sentence/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/swayammehta5/codingbyswayam/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1861-rotating-the-box](https://github.com/swayammehta5/codingbyswayam/tree/main/1861-rotating-the-box/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/swayammehta5/codingbyswayam/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/swayammehta5/codingbyswayam/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/swayammehta5/codingbyswayam/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -151,6 +152,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/swayammehta5/codingbyswayam/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/swayammehta5/codingbyswayam/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1861-rotating-the-box](https://github.com/swayammehta5/codingbyswayam/tree/main/1861-rotating-the-box/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/swayammehta5/codingbyswayam/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -175,6 +177,7 @@
 | ------- | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/swayammehta5/codingbyswayam/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1861-rotating-the-box](https://github.com/swayammehta5/codingbyswayam/tree/main/1861-rotating-the-box/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/swayammehta5/codingbyswayam/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/swayammehta5/codingbyswayam/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Backtracking
