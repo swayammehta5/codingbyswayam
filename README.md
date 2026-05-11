@@ -209,6 +209,7 @@
 | [0096-unique-binary-search-trees](https://github.com/swayammehta5/codingbyswayam/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0258-add-digits](https://github.com/swayammehta5/codingbyswayam/tree/main/0258-add-digits/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/swayammehta5/codingbyswayam/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
+| [2544-alternating-digit-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/2544-alternating-digit-sum/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/2578-split-with-minimum-sum/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/swayammehta5/codingbyswayam/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
