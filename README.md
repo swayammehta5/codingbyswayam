@@ -28,6 +28,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/swayammehta5/codingbyswayam/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/swayammehta5/codingbyswayam/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/swayammehta5/codingbyswayam/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/swayammehta5/codingbyswayam/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/swayammehta5/codingbyswayam/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/swayammehta5/codingbyswayam/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -218,6 +219,7 @@
 | ------- | ------- |
 | [0258-add-digits](https://github.com/swayammehta5/codingbyswayam/tree/main/0258-add-digits/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/swayammehta5/codingbyswayam/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/swayammehta5/codingbyswayam/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/swayammehta5/codingbyswayam/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
