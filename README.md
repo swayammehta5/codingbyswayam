@@ -18,6 +18,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/swayammehta5/codingbyswayam/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/swayammehta5/codingbyswayam/tree/main/1652-defuse-the-bomb/) | Easy |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/swayammehta5/codingbyswayam/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1672-richest-customer-wealth](https://github.com/swayammehta5/codingbyswayam/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1816-truncate-sentence](https://github.com/swayammehta5/codingbyswayam/tree/main/1816-truncate-sentence/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/swayammehta5/codingbyswayam/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -65,6 +66,7 @@
 | [0316-remove-duplicate-letters](https://github.com/swayammehta5/codingbyswayam/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/swayammehta5/codingbyswayam/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/swayammehta5/codingbyswayam/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/swayammehta5/codingbyswayam/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/swayammehta5/codingbyswayam/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/2578-split-with-minimum-sum/) | Easy |
 ## Monotonic Stack
@@ -172,6 +174,7 @@
 | [0905-sort-array-by-parity](https://github.com/swayammehta5/codingbyswayam/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/swayammehta5/codingbyswayam/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/swayammehta5/codingbyswayam/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/2578-split-with-minimum-sum/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
