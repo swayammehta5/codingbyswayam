@@ -32,6 +32,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/swayammehta5/codingbyswayam/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/swayammehta5/codingbyswayam/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/swayammehta5/codingbyswayam/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/swayammehta5/codingbyswayam/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/swayammehta5/codingbyswayam/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3660-jump-game-ix](https://github.com/swayammehta5/codingbyswayam/tree/main/3660-jump-game-ix/) | Medium |
@@ -170,6 +171,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/swayammehta5/codingbyswayam/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/swayammehta5/codingbyswayam/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/swayammehta5/codingbyswayam/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -180,6 +182,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/swayammehta5/codingbyswayam/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/swayammehta5/codingbyswayam/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/2578-split-with-minimum-sum/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/swayammehta5/codingbyswayam/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
