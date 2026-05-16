@@ -11,6 +11,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0135-candy](https://github.com/swayammehta5/codingbyswayam/tree/main/0135-candy/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/swayammehta5/codingbyswayam/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0198-house-robber](https://github.com/swayammehta5/codingbyswayam/tree/main/0198-house-robber/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/swayammehta5/codingbyswayam/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0888-fair-candy-swap](https://github.com/swayammehta5/codingbyswayam/tree/main/0888-fair-candy-swap/) | Easy |
@@ -150,6 +151,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/swayammehta5/codingbyswayam/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/swayammehta5/codingbyswayam/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/swayammehta5/codingbyswayam/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0888-fair-candy-swap](https://github.com/swayammehta5/codingbyswayam/tree/main/0888-fair-candy-swap/) | Easy |
