@@ -9,6 +9,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0134-gas-station](https://github.com/swayammehta5/codingbyswayam/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/swayammehta5/codingbyswayam/tree/main/0135-candy/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/swayammehta5/codingbyswayam/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -67,6 +68,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/swayammehta5/codingbyswayam/tree/main/0055-jump-game/) | Medium |
+| [0134-gas-station](https://github.com/swayammehta5/codingbyswayam/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/swayammehta5/codingbyswayam/tree/main/0135-candy/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/swayammehta5/codingbyswayam/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/swayammehta5/codingbyswayam/tree/main/0334-increasing-triplet-subsequence/) | Medium |
