@@ -21,6 +21,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/swayammehta5/codingbyswayam/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/swayammehta5/codingbyswayam/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
+| [1306-jump-game-iii](https://github.com/swayammehta5/codingbyswayam/tree/main/1306-jump-game-iii/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/swayammehta5/codingbyswayam/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/swayammehta5/codingbyswayam/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -116,6 +117,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/swayammehta5/codingbyswayam/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1306-jump-game-iii](https://github.com/swayammehta5/codingbyswayam/tree/main/1306-jump-game-iii/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/swayammehta5/codingbyswayam/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -126,6 +128,7 @@
 | [0112-path-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/0112-path-sum/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1306-jump-game-iii](https://github.com/swayammehta5/codingbyswayam/tree/main/1306-jump-game-iii/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/swayammehta5/codingbyswayam/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
