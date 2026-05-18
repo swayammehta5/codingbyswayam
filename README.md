@@ -23,6 +23,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/swayammehta5/codingbyswayam/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/swayammehta5/codingbyswayam/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1306-jump-game-iii](https://github.com/swayammehta5/codingbyswayam/tree/main/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/swayammehta5/codingbyswayam/tree/main/1345-jump-game-iv/) | Hard |
 | [1572-matrix-diagonal-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/swayammehta5/codingbyswayam/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/swayammehta5/codingbyswayam/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -131,6 +132,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1306-jump-game-iii](https://github.com/swayammehta5/codingbyswayam/tree/main/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/swayammehta5/codingbyswayam/tree/main/1345-jump-game-iv/) | Hard |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/swayammehta5/codingbyswayam/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -185,6 +187,7 @@
 | [0205-isomorphic-strings](https://github.com/swayammehta5/codingbyswayam/tree/main/0205-isomorphic-strings/) | Easy |
 | [0888-fair-candy-swap](https://github.com/swayammehta5/codingbyswayam/tree/main/0888-fair-candy-swap/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1345-jump-game-iv](https://github.com/swayammehta5/codingbyswayam/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/swayammehta5/codingbyswayam/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/swayammehta5/codingbyswayam/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/swayammehta5/codingbyswayam/tree/main/2784-check-if-array-is-good/) | Easy |
