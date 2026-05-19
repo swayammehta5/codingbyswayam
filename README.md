@@ -17,6 +17,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0198-house-robber](https://github.com/swayammehta5/codingbyswayam/tree/main/0198-house-robber/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/swayammehta5/codingbyswayam/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/swayammehta5/codingbyswayam/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0888-fair-candy-swap](https://github.com/swayammehta5/codingbyswayam/tree/main/0888-fair-candy-swap/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/swayammehta5/codingbyswayam/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0922-sort-array-by-parity-ii/) | Easy |
@@ -165,6 +166,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/swayammehta5/codingbyswayam/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/swayammehta5/codingbyswayam/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/swayammehta5/codingbyswayam/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0888-fair-candy-swap](https://github.com/swayammehta5/codingbyswayam/tree/main/0888-fair-candy-swap/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/swayammehta5/codingbyswayam/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -175,6 +177,7 @@
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/swayammehta5/codingbyswayam/tree/main/0061-rotate-list/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/swayammehta5/codingbyswayam/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/swayammehta5/codingbyswayam/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/swayammehta5/codingbyswayam/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
@@ -188,6 +191,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0205-isomorphic-strings](https://github.com/swayammehta5/codingbyswayam/tree/main/0205-isomorphic-strings/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/swayammehta5/codingbyswayam/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0888-fair-candy-swap](https://github.com/swayammehta5/codingbyswayam/tree/main/0888-fair-candy-swap/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1345-jump-game-iv](https://github.com/swayammehta5/codingbyswayam/tree/main/1345-jump-game-iv/) | Hard |
@@ -199,6 +203,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/swayammehta5/codingbyswayam/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0888-fair-candy-swap](https://github.com/swayammehta5/codingbyswayam/tree/main/0888-fair-candy-swap/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/swayammehta5/codingbyswayam/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0922-sort-array-by-parity-ii/) | Easy |
