@@ -41,6 +41,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/swayammehta5/codingbyswayam/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/swayammehta5/codingbyswayam/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/swayammehta5/codingbyswayam/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/swayammehta5/codingbyswayam/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/swayammehta5/codingbyswayam/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/swayammehta5/codingbyswayam/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/swayammehta5/codingbyswayam/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -198,6 +199,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/swayammehta5/codingbyswayam/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/swayammehta5/codingbyswayam/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2540-minimum-common-value](https://github.com/swayammehta5/codingbyswayam/tree/main/2540-minimum-common-value/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/swayammehta5/codingbyswayam/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/swayammehta5/codingbyswayam/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Sorting
@@ -299,4 +301,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/swayammehta5/codingbyswayam/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/swayammehta5/codingbyswayam/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 <!---LeetCode Topics End-->
