@@ -58,6 +58,7 @@
 | [0205-isomorphic-strings](https://github.com/swayammehta5/codingbyswayam/tree/main/0205-isomorphic-strings/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/swayammehta5/codingbyswayam/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0796-rotate-string](https://github.com/swayammehta5/codingbyswayam/tree/main/0796-rotate-string/) | Easy |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/swayammehta5/codingbyswayam/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1816-truncate-sentence](https://github.com/swayammehta5/codingbyswayam/tree/main/1816-truncate-sentence/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/swayammehta5/codingbyswayam/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/swayammehta5/codingbyswayam/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -77,6 +78,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/swayammehta5/codingbyswayam/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/swayammehta5/codingbyswayam/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -245,6 +247,7 @@
 | [0096-unique-binary-search-trees](https://github.com/swayammehta5/codingbyswayam/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0198-house-robber](https://github.com/swayammehta5/codingbyswayam/tree/main/0198-house-robber/) | Medium |
 | [0337-house-robber-iii](https://github.com/swayammehta5/codingbyswayam/tree/main/0337-house-robber-iii/) | Medium |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/swayammehta5/codingbyswayam/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/swayammehta5/codingbyswayam/tree/main/2310-sum-of-numbers-with-units-digit-k/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/swayammehta5/codingbyswayam/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3660-jump-game-ix](https://github.com/swayammehta5/codingbyswayam/tree/main/3660-jump-game-ix/) | Medium |
