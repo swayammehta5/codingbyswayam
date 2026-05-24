@@ -25,6 +25,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/swayammehta5/codingbyswayam/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/swayammehta5/codingbyswayam/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1306-jump-game-iii](https://github.com/swayammehta5/codingbyswayam/tree/main/1306-jump-game-iii/) | Medium |
+| [1340-jump-game-v](https://github.com/swayammehta5/codingbyswayam/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/swayammehta5/codingbyswayam/tree/main/1345-jump-game-iv/) | Hard |
 | [1572-matrix-diagonal-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/swayammehta5/codingbyswayam/tree/main/1652-defuse-the-bomb/) | Easy |
@@ -220,6 +221,7 @@
 | [0905-sort-array-by-parity](https://github.com/swayammehta5/codingbyswayam/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1340-jump-game-v](https://github.com/swayammehta5/codingbyswayam/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/swayammehta5/codingbyswayam/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/swayammehta5/codingbyswayam/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/2578-split-with-minimum-sum/) | Easy |
@@ -247,6 +249,7 @@
 | [0096-unique-binary-search-trees](https://github.com/swayammehta5/codingbyswayam/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0198-house-robber](https://github.com/swayammehta5/codingbyswayam/tree/main/0198-house-robber/) | Medium |
 | [0337-house-robber-iii](https://github.com/swayammehta5/codingbyswayam/tree/main/0337-house-robber-iii/) | Medium |
+| [1340-jump-game-v](https://github.com/swayammehta5/codingbyswayam/tree/main/1340-jump-game-v/) | Hard |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/swayammehta5/codingbyswayam/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/swayammehta5/codingbyswayam/tree/main/2310-sum-of-numbers-with-units-digit-k/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/swayammehta5/codingbyswayam/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
