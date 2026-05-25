@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/swayammehta5/codingbyswayam/tree/main/0014-longest-common-prefix/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/swayammehta5/codingbyswayam/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0039-combination-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/0039-combination-sum/) | Medium |
 | [0045-jump-game-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/swayammehta5/codingbyswayam/tree/main/0055-jump-game/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -238,6 +239,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/0039-combination-sum/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0113-path-sum-ii/) | Medium |
 ## Dynamic Programming
