@@ -336,4 +336,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/swayammehta5/codingbyswayam/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/swayammehta5/codingbyswayam/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
