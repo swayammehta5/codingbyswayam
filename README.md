@@ -347,6 +347,7 @@
 | [0177-nth-highest-salary](https://github.com/swayammehta5/codingbyswayam/tree/main/0177-nth-highest-salary/) | Medium |
 | [0182-duplicate-emails](https://github.com/swayammehta5/codingbyswayam/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/swayammehta5/codingbyswayam/tree/main/0183-customers-who-never-order/) | Easy |
+| [0184-department-highest-salary](https://github.com/swayammehta5/codingbyswayam/tree/main/0184-department-highest-salary/) | Medium |
 | [0196-delete-duplicate-emails](https://github.com/swayammehta5/codingbyswayam/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/swayammehta5/codingbyswayam/tree/main/0197-rising-temperature/) | Easy |
 <!---LeetCode Topics End-->
