@@ -344,6 +344,7 @@
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/swayammehta5/codingbyswayam/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/swayammehta5/codingbyswayam/tree/main/0176-second-highest-salary/) | Medium |
+| [0177-nth-highest-salary](https://github.com/swayammehta5/codingbyswayam/tree/main/0177-nth-highest-salary/) | Medium |
 | [0182-duplicate-emails](https://github.com/swayammehta5/codingbyswayam/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/swayammehta5/codingbyswayam/tree/main/0183-customers-who-never-order/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/swayammehta5/codingbyswayam/tree/main/0196-delete-duplicate-emails/) | Easy |
