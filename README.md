@@ -351,4 +351,5 @@
 | [0184-department-highest-salary](https://github.com/swayammehta5/codingbyswayam/tree/main/0184-department-highest-salary/) | Medium |
 | [0196-delete-duplicate-emails](https://github.com/swayammehta5/codingbyswayam/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/swayammehta5/codingbyswayam/tree/main/0197-rising-temperature/) | Easy |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/swayammehta5/codingbyswayam/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 <!---LeetCode Topics End-->
