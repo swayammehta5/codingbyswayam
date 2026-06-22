@@ -68,6 +68,7 @@
 | [0205-isomorphic-strings](https://github.com/swayammehta5/codingbyswayam/tree/main/0205-isomorphic-strings/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/swayammehta5/codingbyswayam/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0796-rotate-string](https://github.com/swayammehta5/codingbyswayam/tree/main/0796-rotate-string/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/swayammehta5/codingbyswayam/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/swayammehta5/codingbyswayam/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1816-truncate-sentence](https://github.com/swayammehta5/codingbyswayam/tree/main/1816-truncate-sentence/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/swayammehta5/codingbyswayam/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
@@ -222,6 +223,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/swayammehta5/codingbyswayam/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0888-fair-candy-swap](https://github.com/swayammehta5/codingbyswayam/tree/main/0888-fair-candy-swap/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1189-maximum-number-of-balloons](https://github.com/swayammehta5/codingbyswayam/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1345-jump-game-iv](https://github.com/swayammehta5/codingbyswayam/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/swayammehta5/codingbyswayam/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/swayammehta5/codingbyswayam/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -370,5 +372,6 @@
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/swayammehta5/codingbyswayam/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/swayammehta5/codingbyswayam/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
