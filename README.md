@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/swayammehta5/codingbyswayam/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/0039-combination-sum/) | Medium |
 | [0045-jump-game-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0045-jump-game-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/swayammehta5/codingbyswayam/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/swayammehta5/codingbyswayam/tree/main/0055-jump-game/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/swayammehta5/codingbyswayam/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -273,6 +274,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0045-jump-game-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/swayammehta5/codingbyswayam/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/swayammehta5/codingbyswayam/tree/main/0055-jump-game/) | Medium |
 | [0085-maximal-rectangle](https://github.com/swayammehta5/codingbyswayam/tree/main/0085-maximal-rectangle/) | Hard |
 | [0095-unique-binary-search-trees-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
@@ -288,6 +290,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/swayammehta5/codingbyswayam/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 ## Math
