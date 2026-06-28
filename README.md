@@ -43,6 +43,7 @@
 | [1816-truncate-sentence](https://github.com/swayammehta5/codingbyswayam/tree/main/1816-truncate-sentence/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/swayammehta5/codingbyswayam/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/swayammehta5/codingbyswayam/tree/main/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/swayammehta5/codingbyswayam/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/swayammehta5/codingbyswayam/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/swayammehta5/codingbyswayam/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/swayammehta5/codingbyswayam/tree/main/1861-rotating-the-box/) | Medium |
@@ -111,6 +112,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/swayammehta5/codingbyswayam/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/swayammehta5/codingbyswayam/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/swayammehta5/codingbyswayam/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/swayammehta5/codingbyswayam/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/swayammehta5/codingbyswayam/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/swayammehta5/codingbyswayam/tree/main/2310-sum-of-numbers-with-units-digit-k/) | Medium |
 | [2578-split-with-minimum-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/2578-split-with-minimum-sum/) | Easy |
@@ -253,6 +255,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/swayammehta5/codingbyswayam/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/swayammehta5/codingbyswayam/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/swayammehta5/codingbyswayam/tree/main/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/swayammehta5/codingbyswayam/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/swayammehta5/codingbyswayam/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/2578-split-with-minimum-sum/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/swayammehta5/codingbyswayam/tree/main/2784-check-if-array-is-good/) | Easy |
