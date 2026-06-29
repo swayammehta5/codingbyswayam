@@ -48,6 +48,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/swayammehta5/codingbyswayam/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/swayammehta5/codingbyswayam/tree/main/1861-rotating-the-box/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/swayammehta5/codingbyswayam/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/swayammehta5/codingbyswayam/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/swayammehta5/codingbyswayam/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/swayammehta5/codingbyswayam/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/swayammehta5/codingbyswayam/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -76,6 +77,7 @@
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/swayammehta5/codingbyswayam/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1816-truncate-sentence](https://github.com/swayammehta5/codingbyswayam/tree/main/1816-truncate-sentence/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/swayammehta5/codingbyswayam/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/swayammehta5/codingbyswayam/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/swayammehta5/codingbyswayam/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/swayammehta5/codingbyswayam/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/swayammehta5/codingbyswayam/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
