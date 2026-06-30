@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/swayammehta5/codingbyswayam/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/swayammehta5/codingbyswayam/tree/main/0014-longest-common-prefix/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/swayammehta5/codingbyswayam/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/0039-combination-sum/) | Medium |
@@ -105,6 +106,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/swayammehta5/codingbyswayam/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/swayammehta5/codingbyswayam/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/swayammehta5/codingbyswayam/tree/main/0134-gas-station/) | Medium |
@@ -212,6 +214,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/swayammehta5/codingbyswayam/tree/main/0011-container-with-most-water/) | Medium |
 | [0061-rotate-list](https://github.com/swayammehta5/codingbyswayam/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/swayammehta5/codingbyswayam/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
