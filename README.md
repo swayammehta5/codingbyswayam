@@ -103,6 +103,7 @@
 | [0085-maximal-rectangle](https://github.com/swayammehta5/codingbyswayam/tree/main/0085-maximal-rectangle/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/swayammehta5/codingbyswayam/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/swayammehta5/codingbyswayam/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 ## Greedy
@@ -141,6 +142,7 @@
 | [0112-path-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0337-house-robber-iii](https://github.com/swayammehta5/codingbyswayam/tree/main/0337-house-robber-iii/) | Medium |
@@ -158,6 +160,7 @@
 | [0112-path-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0337-house-robber-iii](https://github.com/swayammehta5/codingbyswayam/tree/main/0337-house-robber-iii/) | Medium |
@@ -193,6 +196,7 @@
 | [0112-path-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0337-house-robber-iii](https://github.com/swayammehta5/codingbyswayam/tree/main/0337-house-robber-iii/) | Medium |
