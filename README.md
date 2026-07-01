@@ -18,6 +18,7 @@
 | [0085-maximal-rectangle](https://github.com/swayammehta5/codingbyswayam/tree/main/0085-maximal-rectangle/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0134-gas-station](https://github.com/swayammehta5/codingbyswayam/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/swayammehta5/codingbyswayam/tree/main/0135-candy/) | Hard |
@@ -141,6 +142,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0112-path-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -204,6 +206,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0112-path-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -226,6 +229,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/swayammehta5/codingbyswayam/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/swayammehta5/codingbyswayam/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -328,6 +332,7 @@
 | [0053-maximum-subarray](https://github.com/swayammehta5/codingbyswayam/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
