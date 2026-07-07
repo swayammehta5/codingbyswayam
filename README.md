@@ -247,6 +247,7 @@
 | [0061-rotate-list](https://github.com/swayammehta5/codingbyswayam/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/swayammehta5/codingbyswayam/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0148-sort-list](https://github.com/swayammehta5/codingbyswayam/tree/main/0148-sort-list/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/swayammehta5/codingbyswayam/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/swayammehta5/codingbyswayam/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0922-sort-array-by-parity-ii/) | Easy |
@@ -280,6 +281,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/swayammehta5/codingbyswayam/tree/main/0075-sort-colors/) | Medium |
+| [0148-sort-list](https://github.com/swayammehta5/codingbyswayam/tree/main/0148-sort-list/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/swayammehta5/codingbyswayam/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0888-fair-candy-swap](https://github.com/swayammehta5/codingbyswayam/tree/main/0888-fair-candy-swap/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/swayammehta5/codingbyswayam/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -335,6 +337,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0148-sort-list](https://github.com/swayammehta5/codingbyswayam/tree/main/0148-sort-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -369,6 +372,7 @@
 | [0002-add-two-numbers](https://github.com/swayammehta5/codingbyswayam/tree/main/0002-add-two-numbers/) | Medium |
 | [0061-rotate-list](https://github.com/swayammehta5/codingbyswayam/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/swayammehta5/codingbyswayam/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0148-sort-list](https://github.com/swayammehta5/codingbyswayam/tree/main/0148-sort-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/swayammehta5/codingbyswayam/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/swayammehta5/codingbyswayam/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/swayammehta5/codingbyswayam/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -425,4 +429,8 @@
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/swayammehta5/codingbyswayam/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/swayammehta5/codingbyswayam/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/swayammehta5/codingbyswayam/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
