@@ -368,6 +368,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/swayammehta5/codingbyswayam/tree/main/0002-add-two-numbers/) | Medium |
 | [0061-rotate-list](https://github.com/swayammehta5/codingbyswayam/tree/main/0061-rotate-list/) | Medium |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/swayammehta5/codingbyswayam/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/swayammehta5/codingbyswayam/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/swayammehta5/codingbyswayam/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/swayammehta5/codingbyswayam/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
