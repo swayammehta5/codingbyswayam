@@ -65,6 +65,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/swayammehta5/codingbyswayam/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/swayammehta5/codingbyswayam/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/swayammehta5/codingbyswayam/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/swayammehta5/codingbyswayam/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/swayammehta5/codingbyswayam/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3660-jump-game-ix](https://github.com/swayammehta5/codingbyswayam/tree/main/3660-jump-game-ix/) | Medium |
@@ -276,6 +277,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/swayammehta5/codingbyswayam/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/swayammehta5/codingbyswayam/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3005-count-elements-with-maximum-frequency](https://github.com/swayammehta5/codingbyswayam/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/swayammehta5/codingbyswayam/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/swayammehta5/codingbyswayam/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -431,6 +433,7 @@
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/swayammehta5/codingbyswayam/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/swayammehta5/codingbyswayam/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3005-count-elements-with-maximum-frequency](https://github.com/swayammehta5/codingbyswayam/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
