@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/swayammehta5/codingbyswayam/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/swayammehta5/codingbyswayam/tree/main/0014-longest-common-prefix/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/swayammehta5/codingbyswayam/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -260,6 +261,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/0001-two-sum/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0205-isomorphic-strings](https://github.com/swayammehta5/codingbyswayam/tree/main/0205-isomorphic-strings/) | Easy |
