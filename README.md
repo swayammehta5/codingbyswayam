@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/swayammehta5/codingbyswayam/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/0039-combination-sum/) | Medium |
 | [0045-jump-game-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0045-jump-game-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/swayammehta5/codingbyswayam/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/swayammehta5/codingbyswayam/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/swayammehta5/codingbyswayam/tree/main/0055-jump-game/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/swayammehta5/codingbyswayam/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -76,6 +77,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/swayammehta5/codingbyswayam/tree/main/0014-longest-common-prefix/) | Easy |
+| [0049-group-anagrams](https://github.com/swayammehta5/codingbyswayam/tree/main/0049-group-anagrams/) | Medium |
 | [0205-isomorphic-strings](https://github.com/swayammehta5/codingbyswayam/tree/main/0205-isomorphic-strings/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/swayammehta5/codingbyswayam/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0796-rotate-string](https://github.com/swayammehta5/codingbyswayam/tree/main/0796-rotate-string/) | Easy |
@@ -264,6 +266,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/swayammehta5/codingbyswayam/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/swayammehta5/codingbyswayam/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -286,6 +289,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/swayammehta5/codingbyswayam/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/swayammehta5/codingbyswayam/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/swayammehta5/codingbyswayam/tree/main/0148-sort-list/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/swayammehta5/codingbyswayam/tree/main/0349-intersection-of-two-arrays/) | Easy |
