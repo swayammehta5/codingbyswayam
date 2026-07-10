@@ -31,6 +31,7 @@
 | [0198-house-robber](https://github.com/swayammehta5/codingbyswayam/tree/main/0198-house-robber/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/swayammehta5/codingbyswayam/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/swayammehta5/codingbyswayam/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/swayammehta5/codingbyswayam/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0888-fair-candy-swap](https://github.com/swayammehta5/codingbyswayam/tree/main/0888-fair-candy-swap/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/swayammehta5/codingbyswayam/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0922-sort-array-by-parity-ii/) | Easy |
@@ -241,6 +242,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/swayammehta5/codingbyswayam/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/swayammehta5/codingbyswayam/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/swayammehta5/codingbyswayam/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0888-fair-candy-swap](https://github.com/swayammehta5/codingbyswayam/tree/main/0888-fair-candy-swap/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/swayammehta5/codingbyswayam/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/swayammehta5/codingbyswayam/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
