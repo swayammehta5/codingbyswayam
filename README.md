@@ -37,6 +37,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/swayammehta5/codingbyswayam/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/swayammehta5/codingbyswayam/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
+| [1260-shift-2d-grid](https://github.com/swayammehta5/codingbyswayam/tree/main/1260-shift-2d-grid/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/swayammehta5/codingbyswayam/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1306-jump-game-iii](https://github.com/swayammehta5/codingbyswayam/tree/main/1306-jump-game-iii/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/swayammehta5/codingbyswayam/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -325,6 +326,7 @@
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/swayammehta5/codingbyswayam/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0085-maximal-rectangle](https://github.com/swayammehta5/codingbyswayam/tree/main/0085-maximal-rectangle/) | Hard |
+| [1260-shift-2d-grid](https://github.com/swayammehta5/codingbyswayam/tree/main/1260-shift-2d-grid/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/swayammehta5/codingbyswayam/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1861-rotating-the-box](https://github.com/swayammehta5/codingbyswayam/tree/main/1861-rotating-the-box/) | Medium |
@@ -384,6 +386,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/swayammehta5/codingbyswayam/tree/main/0258-add-digits/) | Easy |
+| [1260-shift-2d-grid](https://github.com/swayammehta5/codingbyswayam/tree/main/1260-shift-2d-grid/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/swayammehta5/codingbyswayam/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/swayammehta5/codingbyswayam/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/swayammehta5/codingbyswayam/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
