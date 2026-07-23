@@ -18,6 +18,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0085-maximal-rectangle](https://github.com/swayammehta5/codingbyswayam/tree/main/0085-maximal-rectangle/) | Hard |
+| [0088-merge-sorted-array](https://github.com/swayammehta5/codingbyswayam/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/swayammehta5/codingbyswayam/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/swayammehta5/codingbyswayam/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -263,6 +264,7 @@
 | [0061-rotate-list](https://github.com/swayammehta5/codingbyswayam/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/swayammehta5/codingbyswayam/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/swayammehta5/codingbyswayam/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/swayammehta5/codingbyswayam/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/swayammehta5/codingbyswayam/tree/main/0148-sort-list/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/swayammehta5/codingbyswayam/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0567-permutation-in-string](https://github.com/swayammehta5/codingbyswayam/tree/main/0567-permutation-in-string/) | Medium |
@@ -307,6 +309,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/swayammehta5/codingbyswayam/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/swayammehta5/codingbyswayam/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/swayammehta5/codingbyswayam/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/swayammehta5/codingbyswayam/tree/main/0148-sort-list/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/swayammehta5/codingbyswayam/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0888-fair-candy-swap](https://github.com/swayammehta5/codingbyswayam/tree/main/0888-fair-candy-swap/) | Easy |
