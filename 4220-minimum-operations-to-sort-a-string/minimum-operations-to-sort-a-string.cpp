@@ -3,13 +3,13 @@ public:
     int minOperations(string s) {
         int n=s.size();
         bool sorted=true;
-        char mn=s[0],mx=s[0];
+        char mn=s[0] , mx=s[0];
         for(int i=1;i<n;i++){
             if(s[i]<s[i-1]){
-                sorted=false;
+                sorted= false;
             }
-            mn=min(s[i],mn);
-            mx=max(s[i],mx);
+            mn=min(mn,s[i]);
+            mx=max(mx,s[i]);
         }
         if(sorted) return 0;
         if(n==2) return -1;
