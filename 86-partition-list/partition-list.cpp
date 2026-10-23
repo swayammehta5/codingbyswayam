@@ -11,8 +11,8 @@
 class Solution {
 public:
     ListNode* partition(ListNode* head, int x) {
-        ListNode* small=new ListNode(0);
-        ListNode* large=new ListNode(0);
+        ListNode* small= new ListNode(-1);
+        ListNode* large= new ListNode(-1);
         ListNode* smallcurr=small;
         ListNode* largecurr=large;
         ListNode* curr=head;
@@ -29,5 +29,6 @@ public:
         largecurr->next=NULL;
         smallcurr->next=large->next;
         return small->next;
+
     }
 };
